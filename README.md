@@ -3,7 +3,8 @@
 
 Watching videos from [C64 Appreciation Society](https://www.youtube.com/watch?v=3I7Lx3dbtRg&t=455s),
 I also wanted to have a go in typing old video games but with modern tools!
-This [LSP](https://microsoft.github.io/language-server-protocol/) Server allows to validate a file in MLX II format as youx type.
+
+This [LSP](https://microsoft.github.io/language-server-protocol/) Server allows to validate a file in MLX II format as you type.
 
 ## Install
 
